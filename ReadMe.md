@@ -34,4 +34,3 @@ Acknowledgements
 
 Thanks to Vishnu for providing the base code and guidance.
 
-regards to vishnu for providing the base code
